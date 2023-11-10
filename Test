@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ID: ANTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Indonesia",ID: ANTV
-http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/60293
+https://mangga-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-id="" tvg-name="ID: Bali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="Indonesia",ID: Bali TV
 http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/197962
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="Indonesia", ID: Balikpapan TV
