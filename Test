@@ -8,7 +8,7 @@ http://iptvtree.net:8080/mitrovic/ff9bb47a59/166409
 #EXTINF:-1 tvg-id="" tvg-name="ID: Bandung TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="Indonesia",ID: Bandung TV
 http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/60343
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="Indonesia", ID: Da Ai TV
-https://mangga-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd27/.ts
+http://iptvtree.net:8080/mitrovic/ff9bb47a59/165061
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Indonesia",ID: Indosiar
 http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="Indonesia",ID: GTV
