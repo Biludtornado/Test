@@ -296,3 +296,5 @@ http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646966_&exten
 http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646965_&extension=ts
 #EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US: FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/200px-FS2_logo_2015.svg.png" group-title="Piala Dunia U17",US: FOX SPORTS 2
 http://abc123.digital:8080/iammac0648@yahoo.com/PvvJbjRa4S/418179
+#EXTINF:-1 tvg-id="" tvg-name="Carib: Fox Soccer Plus" tvg-logo="http://www.islandconservation.org/wp-content/uploads/2015/05/Island-Conservation-caribbean-projects.png" group-title="Piala Dunia U17",Carib: Fox Soccer Plus
+http://abc123.digital:8080/iammac0648@yahoo.com/PvvJbjRa4S/573953
