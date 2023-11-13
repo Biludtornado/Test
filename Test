@@ -46,9 +46,9 @@ http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/264758
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="Indonesia",ID: SCTV
 http://103.166.27.2:8112/play/a015/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="Indonesia",ID: Trans 7
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/162502
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683116&extension=ts&play_token=Pt7GTqWFwg
 #EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Indonesia",ID: Trans TV
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/162503
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683100&extension=ts&play_token=P9zbzojssX
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV 9 Nusantara" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="Indonesia",ID: TV 9 Nusantara
 http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/162509
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="Indonesia",ID: TV One
