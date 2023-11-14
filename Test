@@ -114,7 +114,7 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683149&
 #EXTINF:-1 tvg-id="" tvg-name="US: Paramount Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9a0cc4b0651789317273bd108332ef94.jpg" group-title="Film",US: Paramount Network
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=45500&extension=ts&play_token=m51rijjIFn
 #EXTINF:-1 tvg-id="" tvg-name="ID029:NAT GEO WILD" tvg-logo="" group-title="Pengetahuan",ID029:NAT GEO WILD
-http://iptvtree.net:8080/mitrovic/ff9bb47a59/197967
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683089&extension=ts&play_token=rGHQQUGwVd
 #EXTINF:-1 tvg-id="" tvg-name="ID037:NAT GEO" tvg-logo="" group-title=" Pengetahuan",ID037:NAT GEO
 http://iptvtree.net:8080/mitrovic/ff9bb47a59/165094
 #EXTINF:-1 tvg-logo="https://songslover.in/wp-content/uploads/Sky-Sports-Main-Event.png" group-title="Sports", SKY SPORT MAIN EVENT
