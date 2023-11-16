@@ -14,7 +14,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Indonesia",ID: Indosiar
 http://103.166.27.2:8112/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="Indonesia",ID: GTV
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683121&extension=ts&play_token=0qzaHoWCOs 
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Indonesia",ID: INews
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/209
 #EXTINF:-1 tvg-id="" tvg-name="ID: Jak TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="Indonesia",ID: Jak TV
