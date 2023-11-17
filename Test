@@ -31,7 +31,7 @@ http://103.166.27.2:8112/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: MQTV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: MQTV
 http://iptvtree.net:8080/06c71787/b4841bff74/298551
 #EXTINF:-1 tvg-id="" tvg-name="ID: Net" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="Indonesia",ID: Net
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/41
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-id="" tvg-name="ID: Nusantara TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="Indonesia",ID: Nusantara TV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683196&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-id="" tvg-name="ID: Radar Cirebon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-10/3eab9934cb20ef8a82b2e1fc3c09aaf8.png" group-title="Indonesia",ID: Radar Cirebon TV
@@ -39,7 +39,7 @@ http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/300662
 #EXTINF:-1 tvg-id="" tvg-name="ID: Rajawali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="Indonesia",ID: Rajawali TV
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683095&extension=ts&play_token=sBfHvm7CVp
 #EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Indonesia",ID: RCTI
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
+http://iptvtree.net:8080/mitrovic/ff9bb47a59/157591
 #EXTINF:-1 tvg-id="" tvg-name="ID: Rodja TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="Indonesia",ID: Rodja TV
 http://013tv.com:8080/0613bffd/de0b8e68e2/264758 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="Indonesia",ID: SCTV
@@ -51,7 +51,7 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683100&
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV 9 Nusantara" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="Indonesia",ID: TV 9 Nusantara
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683196&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="Indonesia",ID: TV One
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/106
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683101&extension=ts&play_token=g5uU52pcdw
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVKU" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: TVKU
 http://013tv.com:8080/0613bffd/de0b8e68e2/166709
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="Indonesia",ID: TVRI
