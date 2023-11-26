@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="ID: ANTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Indonesia",ID: ANTV
+ko#EXTINF:-1 tvg-id="" tvg-name="ID: ANTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="Indonesia",ID: ANTV
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/165072
 #EXTINF:-1 tvg-id="" tvg-name="ID: Bali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="Indonesia",ID: Bali TV
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/13422
@@ -292,7 +292,7 @@ http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646967_&exten
 #EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="AUSTRALIA SPORT", FOX SPORT 506
 http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646966_&extension=ts
 #EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="AUSTRALIA SPORT", FOX SPORT 507
-http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683121&extension=ts&play_token=q6ANYcYRo5
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683121&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-id="Peacock6.peacock" tvg-name="US (PC) Peacock Eevnt 6 (D)" tvg-logo="https://d1w8c6s6gmwlek.cloudfront.net/dotkansas.com/overlays/366/559/36655975.png" group-title="England Sports",US (PC) Peacock Eevnt 6 (D)
 http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:c6:20:7d&stream=1330419&extension=ts&play_token=EA0gPJtA8W
 #EXTINF:-1 tvg-id="Peacock3.peacock" tvg-name="US (PC) Peacock Eevnt 3 (D)" tvg-logo="https://d1w8c6s6gmwlek.cloudfront.net/dotkansas.com/overlays/366/559/36655975.png" group-title="England Sports",US (PC) Peacock Eevnt 3 (D)
