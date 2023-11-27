@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="ID: ANTV" tvg-logo="https://id.pinterest.com/pin/699183910917265884/" group-title="Indonesia",ID: ANTV
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/165072
+#EXTINF:-1 tvg-id="" tvg-name="ID: Balikpapan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="Indonesia",ID: Balikpapan TV
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/166409
 #EXTINF:-1 tvg-id="" tvg-name="ID: Bali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="Indonesia",ID: Bali TV
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/13422
 #EXTINF:-1 tvg-id="" tvg-name="ID: Bandung TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="Indonesia",ID: Bandung TV
@@ -104,8 +106,12 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683149&
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=45500&extension=ts&play_token=m51rijjIFn
 #EXTINF:-1 tvg-id="" tvg-name="ID029:NAT GEO WILD" tvg-logo="" group-title="Pengetahuan",ID029:NAT GEO WILD
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683089&extension=ts&play_token=rGHQQUGwVd
-#EXTINF:-1 tvg-id="" tvg-name="ID037:NAT GEO" tvg-logo="" group-title=" Pengetahuan",ID037:NAT GEO
+#EXTINF:-1 tvg-id="" tvg-name="ID: Nat Geo Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="Pengetahuan",ID: Nat
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/197967
+#EXTINF:-1 tvg-id="" tvg-name="ID037:NAT GEO" tvg-logo="" group-title="Pengetahuan",ID037:NAT GEO
 http://iptvtree.net:8080/mitrovic/ff9bb47a59/165094
+#EXTINF:-1 tvg-id="" tvg-name="ID: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Pengetahuan",ID: ANIMAL PLANET
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/157532
 #EXTINF:-1 tvg-logo="https://songslover.in/wp-content/uploads/Sky-Sports-Main-Event.png" group-title="Sports", SKY SPORT MAIN EVENT
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=83450&extension=ts&play_token=2Q6fP0aQzR
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNi2Iptg_QIQ3FXA61R2oy32SMgM6b6Wj4a8nepdwdfUhwkhJWRiY1H6evFuTWbiHLegE&usqp=CAU" group-title="Sports", SKY SPORT PREMIER LEAGUE
@@ -150,21 +156,117 @@ http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/2123
 http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/3159
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="UK254:BEIN SPORTS 4 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK254Home.png" group-title="Sports",UK254:BEIN SPORTS 4 
 http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/28805
-#EXTINF:-1 tvg-id="heart.gb" tvg-name="UK257:BEIN SPORTS 7 " tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/" group-title="Sports",UK257:BEIN SPORTS 7 
-http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/28802
 #EXTINF:-1 tvg-id="bein.sports.1.fr" tvg-name="FR036:BEIN SPORTS 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR036CineFrisson.png" group-title="Sports",FR036:BEIN SPORTS 1 FHD
 http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/2830
 #EXTINF:-1 tvg-id="bein.sports.2.fr" tvg-name="FR037:BEIN SPORTS 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR037" group-title="Sports",FR037:BEIN SPORTS 2 FHD
 http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/2829
-#EXTINF:-1 tvg-id="bein.sports.3.fr" tvg-name="FR038:BEIN SPORTS 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR038CinePolar.png" group-title="Sports",FR038:BEIN SPORTS 3 FHD
-http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/2828
-#EXTINF:-1 tvg-id="" tvg-name="AU012:BEIN SPORTS 1" tvg-logo="" group-title="Sports",AU012:BEIN SPORTS 1
-http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/61074
-#EXTINF:-1 tvg-id="" tvg-name="AU014:BEIN SPORTS 3" tvg-logo="" group-title="Sports",AU014:BEIN SPORTS 3
-http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/61076
 #EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN022:Bein Sports Premium 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN022 Bein Sports Premium 1.png" group-title="Sports",BN022:Bein Sports Premium 1
 http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/2120
 #EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN023:Bein Sports Premium 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN023 Bein Sports Premium 2.png" group-title="Sports",BN023:Bein Sports Premium 2
 http://muka03.wanicelife.com:8880/kg12m3n0513/xvsdf23433/2119
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="Sports", BEIN SPORT GLOBAL
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1330456&extension=ts&play_token=SlkNmMJcpG
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Classics ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Classics ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430740
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Comedy ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Comedy ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430741
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Cult ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Cult ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430742
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Family ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Family ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430743
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Greats ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Greats ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430744
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Historical ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Historical ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430745
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Hits ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Hits ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430746
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Musical ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Musical ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430747
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Mystery ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Mystery ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430748
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Premiere ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Premiere ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430749
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Romance ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Romance ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430750
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Sci-Fi ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Sci-Fi ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430751
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinebox Western ᴴᴰ" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinebox Western ᴴᴰ
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430752
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 01" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 01
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430753
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 02" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 02
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430754
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 03" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 03
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430755
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 04" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 04
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430756
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 05" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 05
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430757
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 06" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 06
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430758
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 07" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 07
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430759
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 08" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 08
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430760
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 09" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 09
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430761
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 11" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 11
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430762
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 12" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 12
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430763
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 13" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 13
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430764
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 14" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 14
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430765
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 15" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 15
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430766
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 16" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 16
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430767
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 17" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 17
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430768
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 18" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 18
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430769
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 19" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 19
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430770
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 20" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 20
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430771
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 21" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 21
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430772
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 22" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 22
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430773
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 23" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 23
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430774
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 24" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 24
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430775
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 25" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 25
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430776
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 26" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 26
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430777
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 27" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 27
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430778
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 28" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 28
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430779
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 29" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 29
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430780
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 30" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 30
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430781
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 31" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 31
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430782
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 32" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 32
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430783
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 33" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 33
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430784
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 34" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 34
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430785
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 35" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 35
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430786
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 36" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 36
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430787
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 38" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 38
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430788
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 39" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 39
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430789
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 40" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 40
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430790
+#EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 41" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title=" CINEMA",PPV: Cinema 41
+http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430791
