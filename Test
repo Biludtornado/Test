@@ -87,19 +87,19 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683161&
 #EXTINF:-1 tvg-id="" tvg-name="ID: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="Film",ID: Disney Channel
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=45588&extension=ts&play_token=IkLFbqtywa
 #EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="Film",ID: Galaxy
-http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/264773
+http://iptvtree.net:8080/64921423/a826570920/264773
 #EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="Film",ID: Galaxy Premium
-http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/264774
+http://iptvtree.net:8080/64921423/a826570920/264774
 #EXTINF:-1 tvg-id="" tvg-name="ID: GEM" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="Film",ID: GEM
 http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/298533
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Film",ID: HBO
 http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/197972
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Film",ID: HBO Family
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
+http://iptvtree.net:8080/64921423/a826570920/197055
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Film",ID: HBO Hits
-http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/196480
+http://iptvtree.net:8080/64921423/a826570920/196480
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Film",ID: HBO Signature
-http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/221948
+http://iptvtree.net:8080/64921423/a826570920/221948
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="Film",ID: TVN Movies
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683149&extension=ts&play_token=brQqPCklGg
 #EXTINF:-1 tvg-id="" tvg-name="US: Paramount Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/9a0cc4b0651789317273bd108332ef94.jpg" group-title="Film",US: Paramount Network
