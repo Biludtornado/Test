@@ -44,17 +44,17 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683099&extensi
 http://iptvtree.net:8080/64921423/a826570920/264758
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="Indonesia",ID: SCTV
 http://iptvtree.net:8080/06c71787/b4841bff74/162141
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="Indonesia",ID: Trans 7
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://sindymaulia.files.wordpress.com/2016/12/trans-7-logo.png?w=357" group-title="Indonesia",ID: Trans 7
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683116&extension=ts&play_token=Pt7GTqWFwg
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Indonesia",ID: Trans TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="https://assets.kompasiana.com/statics/crawl/555e4f690423bd676b8b4567.png?t=o&v=770" group-title="Indonesia",ID: Trans TV
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683100&extension=ts&play_token=P9zbzojssX
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV 9 Nusantara" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="Indonesia",ID: TV 9 Nusantara
+#EXTINF:-1 tvg-id="" tvg-name="ID: TV 9 Nusantara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV9NUSANTARA.png" group-title="Indonesia",ID: TV 9 Nusantara
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683196&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="Indonesia",ID: TV One
+#EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="https://w7.pngwing.com/pngs/809/244/png-transparent-tvone-television-batu-logo-streaming-media-others.png" group-title="Indonesia",ID: TV One
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683101&extension=ts&play_token=g5uU52pcdw
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVKU" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: TVKU
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVKU" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="Indonesia",ID: TVKU
 http://iptvtree.net:8080/64921423/a826570920/166709
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="Indonesia",ID: TVRI
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI" tvg-logo="https://www.goodnewsfromindonesia.id/wp-content/uploads/images/source/adityajoyo/TVRI_Ident_Menjalin_Persatuan__Kesatuan_1.jpg" group-title="Indonesia",ID: TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Kartun",ID: 24/7 Angry Birds Toons
 http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/298493
