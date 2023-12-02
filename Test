@@ -34,15 +34,15 @@ http://iptvtree.net:8080/06c71787/b4841bff74/298551
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683093&extension=ts&play_token=9DkcDFh4mV
 #EXTINF:-1 tvg-id="" tvg-name="ID: Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/31/20220920070150%21Logo_nusantaratv.png/120px-Logo_nusantaratv.png" group-title="Indonesia",ID: Nusantara TV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683196&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-id="" tvg-name="ID: Radar Cirebon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-10/3eab9934cb20ef8a82b2e1fc3c09aaf8.png" group-title="Indonesia",ID: Radar Cirebon TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: Radar Cirebon TV" tvg-logo="https://4.bp.blogspot.com/-oNCGc5_Emho/We9dGY51uwI/AAAAAAAAAzE/G9XdWzYGwV0eRRcCPw_7vNUGyPsUOYpCgCLcBGAs/s320/rctv-cirebon.png" group-title="Indonesia",ID: Radar Cirebon TV
 http://iptvtree.net:8080/64921423/a826570920/300662
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rajawali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="Indonesia",ID: Rajawali TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: Rajawali TV" tvg-logo="https://www.rajawali.com/wp-content/uploads/2017/04/Rajawali-Televisi.png" group-title="Indonesia",ID: Rajawali TV
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683095&extension=ts&play_token=sBfHvm7CVp
-#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Indonesia",ID: RCTI
+#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="https://static.wikia.nocookie.net/indotv/images/4/46/RCTI_2015.png/revision/latest/scale-to-width-down/300?cb=20210317155829" group-title="Indonesia",ID: RCTI
 http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683099&extension=ts&play_token=DZvOBJuoup
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rodja TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="Indonesia",ID: Rodja TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: Rodja TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest/scale-to-width-down/300?cb=20180922034039" group-title="Indonesia",ID: Rodja TV
 http://iptvtree.net:8080/64921423/a826570920/264758
-#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="Indonesia",ID: SCTV
+#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="Indonesia",ID: SCTV
 http://iptvtree.net:8080/06c71787/b4841bff74/162141
 #EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="Indonesia",ID: Trans 7
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683116&extension=ts&play_token=Pt7GTqWFwg
