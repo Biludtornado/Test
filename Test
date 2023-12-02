@@ -20,19 +20,19 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683180&extensi
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-Kompas-TV-1.jpg" group-title="Indonesia",ID: Kompas TV
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683194&extension=ts&play_token=QYJDgrz3t3
-#EXTINF:-1 tvg-id="" tvg-name="ID: Mentari TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="Indonesia",ID: Mentari TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: Mentari TV" tvg-logo="https://thumbor.prod.vidiocdn.com/kuHesIiGLnwBug_VJXHsP8q5NUY=/72x72/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/81754377/mentaritv-43de80.jpg" group-title="Indonesia",ID: Mentari TV
 http://103.166.27.2:8112/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Metro TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="Indonesia",ID: Metro TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/594px-MetroTV_2000.svg.png" group-title="Indonesia",ID: Metro TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="Indonesia",ID: MNC TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/798px-MNCTV_logo.png" group-title="Indonesia",ID: MNC TV
 http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683098&extension=ts&play_token=HLhtADFPIu
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="Indonesia",ID: Moji
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/200px-Moji_blue.svg.png" group-title="Indonesia",ID: Moji
 http://103.166.27.2:8112/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MQTV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: MQTV
+#EXTINF:-1 tvg-id="" tvg-name="ID: MQTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/200px-Logo_MQTV.png" group-title="Indonesia",ID: MQTV
 http://iptvtree.net:8080/06c71787/b4841bff74/298551
-#EXTINF:-1 tvg-id="" tvg-name="ID: Net" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="Indonesia",ID: Net
+#EXTINF:-1 tvg-id="" tvg-name="ID: Net" tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="Indonesia",ID: Net
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683093&extension=ts&play_token=9DkcDFh4mV
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nusantara TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="Indonesia",ID: Nusantara TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/31/20220920070150%21Logo_nusantaratv.png/120px-Logo_nusantaratv.png" group-title="Indonesia",ID: Nusantara TV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683196&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-id="" tvg-name="ID: Radar Cirebon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-10/3eab9934cb20ef8a82b2e1fc3c09aaf8.png" group-title="Indonesia",ID: Radar Cirebon TV
 http://iptvtree.net:8080/64921423/a826570920/300662
