@@ -10,15 +10,15 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8?checkedby:iptvcat.org
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch128%29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/75/Indosiar_Karya_Media.png/220px-Indosiar_Karya_Media.png" group-title="Indonesia",ID: Indosiar
 http://103.166.27.2:8112/play/a016/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="Indonesia",ID: GTV
+#EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/190px-GTV_%282017%29.svg.png" group-title="Indonesia",ID: GTV
 http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683121&extension=ts&play_token=q6ANYcYRo5
-#EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="Indonesia",ID: INews
+#EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/800px-INews.png" group-title="Indonesia",ID: INews
 http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=530384&extension=ts&play_token=vaydXQz8qI
-#EXTINF:-1 tvg-id="" tvg-name="ID: Jak TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="Indonesia",ID: Jak TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: Jak TV" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-JAK-TV.jpg" group-title="Indonesia",ID: Jak TV
 http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683180&extension=ts&play_token=UwF75ShABz
-#EXTINF:-1 tvg-id="" tvg-name="ID: JTV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="Indonesia",ID: JTV
+#EXTINF:-1 tvg-id="" tvg-name="ID: JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/150px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="Indonesia",ID: JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="Indonesia",ID: Kompas TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-Kompas-TV-1.jpg" group-title="Indonesia",ID: Kompas TV
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683194&extension=ts&play_token=QYJDgrz3t3
 #EXTINF:-1 tvg-id="" tvg-name="ID: Mentari TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="Indonesia",ID: Mentari TV
 http://103.166.27.2:8112/play/a018/index.m3u8
