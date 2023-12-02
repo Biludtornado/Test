@@ -2,7 +2,7 @@
 http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683153&extension=ts&play_token=hvgeppbARC
 #EXTINF:-1 tvg-id="" tvg-name="ID: Balikpapan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="Indonesia",ID: Balikpapan TV
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/166409
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bali TV" tvg-logo="hhttps://yt3.ggpht.com/AYnXGl24w_clxTO0hcWyRXs8qqwuS6m2zfNvDdsrGalDy-CY6OpVrglJJ7k6ZHNeK9yRWPO7nw=s88-c-k-c0x00ffffff-no-rj" group-title="Indonesia",ID: Bali TV
+#EXTINF:-1 tvg-id="" tvg-name="ID: Bali TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/250px-BaliTV_2014.png" group-title="Indonesia",ID: Bali TV
 http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/13422
 #EXTINF:-1 tvg-id="" tvg-name="ID: Bandung TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="Indonesia",ID: Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8?checkedby:iptvcat.org
