@@ -104,13 +104,13 @@ http://iptvtree.net:8080/64921423/a826570920/221948
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683149&extension=ts&play_token=brQqPCklGg
 #EXTINF:-1 tvg-id="" tvg-name="US: Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/175px-Paramount_Network.svg.png" group-title="🎬Film",US: Paramount Network
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=45500&extension=ts&play_token=m51rijjIFn
-#EXTINF:-1 tvg-id="" tvg-name="ID029:NAT GEO WILD" tvg-logo="" group-title="Pengetahuan",ID029:NAT GEO WILD
+#EXTINF:-1 tvg-id="" tvg-name="ID029:NAT GEO WILD" tvg-logo="" group-title="📚Pengetahuan",ID029:NAT GEO WILD
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683089&extension=ts&play_token=rGHQQUGwVd
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nat Geo Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="Pengetahuan",ID: Nat
+#EXTINF:-1 tvg-id="" tvg-name="ID: Nat Geo Wild" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="📚Pengetahuan",ID: Nat
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/197967
-#EXTINF:-1 tvg-id="" tvg-name="ID037:NAT GEO" tvg-logo="" group-title="Pengetahuan",ID037:NAT GEO
+#EXTINF:-1 tvg-id="" tvg-name="ID037:NAT GEO" tvg-logo="" group-title="📚Pengetahuan",ID037:NAT GEO
 http://iptvtree.net:8080/mitrovic/ff9bb47a59/165094
-#EXTINF:-1 tvg-id="" tvg-name="ID: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Pengetahuan",ID: ANIMAL PLANET
+#EXTINF:-1 tvg-id="" tvg-name="ID: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="📚Pengetahuan",ID: ANIMAL PLANET
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/157532
 #EXTINF:-1 tvg-logo="https://songslover.in/wp-content/uploads/Sky-Sports-Main-Event.png" group-title="Sports", SKY SPORT MAIN EVENT
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=83450&extension=ts&play_token=2Q6fP0aQzR
