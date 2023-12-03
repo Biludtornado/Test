@@ -276,5 +276,35 @@ http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430789
 http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430790
 #EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 41" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title="🎥Cinema",PPV: Cinema 41
 http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430791
-#EXTINF:-1 tvg-id="21.junior.al" tvg-name="ESPN+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN022 Bein Sports Premium 1.png" group-title="⚽La Liga",ESPN+
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=924301&extension=ts&play_token=5azH5SG7i4
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="♨️Fox Sports",US: Fox Sports 1
+http://iptvtree.net:8080/64921423/a826570920/300620
+#EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="♨️Fox Sports",US: Fox Sports 2
+http://iptvtree.net:8080/64921423/a826570920/300621
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS 506" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/7d70c1592322e5d4c37473ff49e3c511.png" group-title="♨️Fox Sports",US: FOX SPORTS 506
+http://iptvtree.net:8080/64921423/a826570920/157457
+#EXTINF:-1 tvg-id="" tvg-name="US: FOX SPORTS Racing" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6f2f3b2279b22736acf606138944bf07.png" group-title="♨️Fox Sports",US: FOX SPORTS Racing
+http://iptvtree.net:8080/64921423/a826570920/2327
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/4860d5094856c80be9a0e80d4e3ea61b.jpg" group-title="♨️Fox Sports",MX: FOX SPORTS 2
+http://iptvtree.net:8080/64921423/a826570920/3043
+#EXTINF:-1 tvg-id="" tvg-name="MX: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/1a4f7efe2244027b516ad0c5bb0319a0.png" group-title="♨️Fox Sports",MX: FOX SPORTS 3
+http://iptvtree.net:8080/64921423/a826570920/3044
+#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-08/803eff84acc7ba0bbdb7301cce19b54d.png" group-title="♨️Fox Sports",BR: FOX SPORTS 2
+http://iptvtree.net:8080/64921423/a826570920/8776
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b6fb0039905434d2842bc80cc0c4db30.png" group-title="♨️Fox Sports",ARG: FOX SPORTS
+http://iptvtree.net:8080/64921423/a826570920/280370
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/cf9e3efa58e179ce0bc51a1bdb47efe0.png" group-title="♨️Fox Sports",ARG: FOX SPORTS 3
+http://iptvtree.net:8080/64921423/a826570920/10921
+#EXTINF:-1 tvg-id="" tvg-name="ARG: FOX SPORTS Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/b57a5eaecfe7cf72fcd954e8a9c634c3.png" group-title="♨️Fox Sports",ARG: FOX SPORTS Premium
+http://iptvtree.net:8080/64921423/a826570920/3203
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 501" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="♨️Fox Sports",AU: Fox Sports 501
+http://iptvtree.net:8080/64921423/a826570920/279034
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 502" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="♨️Fox Sports",AU: Fox Sports 502
+http://iptvtree.net:8080/64921423/a826570920/81784
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 503" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="♨️Fox Sports",AU: Fox Sports 503
+http://iptvtree.net:8080/64921423/a826570920/280192
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 504" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="♨️Fox Sports",AU: Fox Sports 504
+http://iptvtree.net:8080/64921423/a826570920/280193
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports 507" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="♨️Fox Sports",AU: Fox Sports 507
+http://iptvtree.net:8080/64921423/a826570920/280194
+#EXTINF:-1 tvg-id="" tvg-name="AU: Fox Sports News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/127e99eb92bbeac313c1270133b1334d.png" group-title="♨️Fox Sports",AU: Fox Sports News
+http://iptvtree.net:8080/64921423/a826570920/76006
