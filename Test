@@ -19,7 +19,7 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683180&extensi
 #EXTINF:-1 tvg-id="" tvg-name="ID: JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/150px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="🇮🇩Indonesia",ID: JTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-Kompas-TV-1.jpg" group-title="🇮🇩Indonesia",ID: Kompas TV
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683194&extension=ts&play_token=QYJDgrz3t3
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd|license_type=com.widevine.alpha&license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:-1 tvg-id="" tvg-name="ID: Mentari TV" tvg-logo="https://thumbor.prod.vidiocdn.com/kuHesIiGLnwBug_VJXHsP8q5NUY=/72x72/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/81754377/mentaritv-43de80.jpg" group-title="🇮🇩Indonesia",ID: Mentari TV
 http://103.166.27.2:8112/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/594px-MetroTV_2000.svg.png" group-title="🇮🇩Indonesia",ID: Metro TV
