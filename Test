@@ -54,15 +54,9 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683196&extensi
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683101&extension=ts&play_token=g5uU52pcdw
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVKU" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="🇮🇩Indonesia",ID: TVKU
 http://iptvtree.net:8080/64921423/a826570920/298535
-
 #EXTINF:-1 tvg-id="" tvg-name="ID: Tr" tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 9 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=cbb2857966a3a1c27c3305f68e2e92a4:881eca5eda60de64e4ea1514583869f2 https://drm-epl-vidio-com-epl-4.akamaized.net/out/v1/90396b8cf44f4d20b28f1be94b41b241/index.mpd
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI" tvg-logo="https://www.goodnewsfromindonesia.id/wp-content/uploads/images/source/adityajoyo/TVRI_Ident_Menjalin_Persatuan__Kesatuan_1.jpg" group-title="🇮🇩Indonesia",ID: TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ed/Angry_Birds_%28video_games%29_logo.png/170px-Angry_Birds_%28video_games%29_logo.png" group-title="☃️Kartun",ID: 24/7 Angry Birds Toons
