@@ -45,7 +45,7 @@ http://iptvtree.net:8080/64921423/a826570920/264758
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="🇮🇩Indonesia",ID: SCTV
 http://iptvtree.net:8080/06c71787/b4841bff74/162141
 #EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://sindymaulia.files.wordpress.com/2016/12/trans-7-logo.png?w=357" group-title="🇮🇩Indonesia",ID: Trans 7
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/162502
+http://103.166.27.2:8112/play/a01c/index.m3u8|license_type=com.widevine.alpha&license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="https://assets.kompasiana.com/statics/crawl/555e4f690423bd676b8b4567.png?t=o&v=770" group-title="🇮🇩Indonesia",ID: Trans TV
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/162503
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV 9 Nusantara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV9NUSANTARA.png" group-title="🇮🇩Indonesia",ID: TV 9 Nusantara
@@ -54,10 +54,6 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683196&extensi
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683101&extension=ts&play_token=g5uU52pcdw
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVKU" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="🇮🇩Indonesia",ID: TVKU
 http://iptvtree.net:8080/64921423/a826570920/298535
-#EXTINF:-1 tvg-id="" tvg-name="ID: Tr" tvg-logo="https://i.ibb.co/YN4Q35q/PREMIERE.jpg" group-title="👉LIGA EROPA👈"​,PREMIER LEAGUE 9 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=50ac27403c78ffdae7f02ad933eff1679d994e6ed099b2d3d7f9dee0bc86b732
-https://etslive-app.vidio.com/live/206/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI" tvg-logo="https://www.goodnewsfromindonesia.id/wp-content/uploads/images/source/adityajoyo/TVRI_Ident_Menjalin_Persatuan__Kesatuan_1.jpg" group-title="🇮🇩Indonesia",ID: TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ed/Angry_Birds_%28video_games%29_logo.png/170px-Angry_Birds_%28video_games%29_logo.png" group-title="☃️Kartun",ID: 24/7 Angry Birds Toons
