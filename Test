@@ -21,15 +21,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch17%29/index.
 #EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-Kompas-TV-1.jpg" group-title="🇮🇩Indonesia",ID: Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd|license_type=com.widevine.alpha&license_key=https://strmz.my.id/drm/punyastrimz
 #EXTINF:-1 tvg-id="" tvg-name="ID: Mentari TV" tvg-logo="https://thumbor.prod.vidiocdn.com/kuHesIiGLnwBug_VJXHsP8q5NUY=/72x72/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/81754377/mentaritv-43de80.jpg" group-title="🇮🇩Indonesia",ID: Mentari TV
-http://103.166.27.2:8112/play/a018/index.m3u8
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298546
 #EXTINF:-1 tvg-id="" tvg-name="ID: Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/594px-MetroTV_2000.svg.png" group-title="🇮🇩Indonesia",ID: Metro TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/798px-MNCTV_logo.png" group-title="🇮🇩Indonesia",ID: MNC TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683098&extension=ts&play_token=HLhtADFPIu
+http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/165054
 #EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/200px-Moji_blue.svg.png" group-title="🇮🇩Indonesia",ID: Moji
-http://iptvtree.net:8080/06c71787/b4841bff74/298550
+http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/298550
 #EXTINF:-1 tvg-id="" tvg-name="ID: MQTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/200px-Logo_MQTV.png" group-title="🇮🇩Indonesia",ID: MQTV
-http://iptvtree.net:8080/06c71787/b4841bff74/298551
+http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/298551
 #EXTINF:-1 tvg-id="" tvg-name="ID: Net" tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="🇮🇩Indonesia",ID: Net
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683093&extension=ts&play_token=9DkcDFh4mV
 #EXTINF:-1 tvg-id="" tvg-name="ID: Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/31/20220920070150%21Logo_nusantaratv.png/120px-Logo_nusantaratv.png" group-title="🇮🇩Indonesia",ID: Nusantara TV
@@ -43,12 +43,11 @@ http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683099&extensi
 #EXTINF:-1 tvg-id="" tvg-name="ID: Rodja TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest/scale-to-width-down/300?cb=20180922034039" group-title="🇮🇩Indonesia",ID: Rodja TV
 http://iptvtree.net:8080/64921423/a826570920/264758
 #EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png" group-title="🇮🇩Indonesia",ID: SCTV
-http://iptvtree.net:8080/06c71787/b4841bff74/162141
+http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/162141
 #EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://sindymaulia.files.wordpress.com/2016/12/trans-7-logo.png?w=357" group-title="🇮🇩Indonesia",ID: Trans 7
-http://103.166.27.2:8112/play/a01c/index.m3u8|license_type=com.widevine.alpha&license_key=https://strmz.my.id/drm/punyastrimz
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683116&extension=ts&play_token=Deh4N9j5J1
 #EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="https://assets.kompasiana.com/statics/crawl/555e4f690423bd676b8b4567.png?t=o&v=770" group-title="🇮🇩Indonesia",ID: Trans TV
-http://103.166.27.2:8112/play/a01b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV 9 Nusantara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV9NUSANTARA.png" group-title="🇮🇩Indonesia",ID: TV 9 Nusantara
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683100&extension=ts&play_token=YkzCHwpeWig-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV9NUSANTARA.png" group-title="🇮🇩Indonesia",ID: TV 9 Nusantara
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683196&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="https://w7.pngwing.com/pngs/809/244/png-transparent-tvone-television-batu-logo-streaming-media-others.png" group-title="🇮🇩Indonesia",ID: TV One
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683101&extension=ts&play_token=g5uU52pcdw
