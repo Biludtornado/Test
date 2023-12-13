@@ -55,34 +55,18 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683101&
 http://iptvtree.net:8080/64921423/a826570920/298535
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI" tvg-logo="https://www.goodnewsfromindonesia.id/wp-content/uploads/images/source/adityajoyo/TVRI_Ident_Menjalin_Persatuan__Kesatuan_1.jpg" group-title="🇮🇩Indonesia",ID: TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ed/Angry_Birds_%28video_games%29_logo.png/170px-Angry_Birds_%28video_games%29_logo.png" group-title="☃️Kartun",ID: 24/7 Angry Birds Toons
-http://iptvtree.net:8080/64921423/a826570920/298493
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Paw patrol" tvg-logo="https://o-cdn-cas.sirclocdn.com/parenting/images/Paw_Patrol.width-800.format-webp.webp" group-title="☃️Kartun",ID: 24/7 Paw patrol
-https://shorturl.at/vHIKX
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Robocar POL" tvg-logo="https://static.wikia.nocookie.net/robocarpoli/images/7/73/Poli.png/revision/latest/smart/width/53/height/53?cb=20210604033151" group-title="☃️Kartun",ID: 24/7 Robocar POL
-https://shorturl.at/lGV69
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Jungle Beat" tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/Jungle-Beat-1000x600.jpg" group-title="☃️Kartun",ID: 24/7 Jungle Beat
-https://shorturl.at/ovGSW
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="https://static.wikia.nocookie.net/babybus/images/4/47/BabyBus_Logo_with_Kiki_and_Miumiu.png/revision/latest/scale-to-width-down/400?cb=20230417140100" group-title="☃️Kartun",ID: 24/7 BabyBus Indonesia
-https://shorturl.at/fnAPQ
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Donald Ducks" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/db/Donald_Duck_Iconic.png/revision/latest/scale-to-width-down/350?cb=20200119173434&path-prefix=id" group-title="☃️Kartun",ID: 24/7 Donald Ducks
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298495
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Doraemon" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Doraemon_character.png/220px-Doraemon_character.png" group-title="☃️Kartun",ID: 24/7 Doraemon
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/298496
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Tom And Jerry" tvg-logo="https://mmc.tirto.id/image/otf/700x0/2016/06/24/TomandJerry_ratio-16x9.jpg" group-title="☃️Kartun",ID: 24/7 Tom And Jerry
-https://shorturl.at/pvCN9
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Upin Ipin" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e8/Upin_%26_Ipin_Keris_Siamang_Tunggal_Poster_Resmi.jpg/220px-Upin_%26_Ipin_Keris_Siamang_Tunggal_Poster_Resmi.jpg" group-title="☃️Kartun",ID: 24/7 Upin Ipin
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/298501
-#EXTINF:-1 tvg-id="" tvg-name="ID: DreamWorks" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/220px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="☃️Kartun",ID: DreamWorks
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/157610
-#EXTINF:-1 tvg-id="" tvg-name="ID: nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/NICK2023.png/200px-NICK2023.png" group-title="☃️Kartun",ID: nickelodeon
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/162510
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="☃️Kartun",ID: Cartoon Network
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/157593
-#EXTINF:-1 tvg-id="" tvg-name="ID: Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/220px-Animax_logo.svg.png" group-title="☃️Kartun",ID: Animax
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683165&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-id="" tvg-name="ID: AniPlus" tvg-logo="https://animeinasia.files.wordpress.com/2017/04/aniplus.png?w=869&h=489" group-title="☃️Kartun",ID: AniPlus
-http://iptvtree.net:8080/JoNSnoW/kY4hFt7Vrln259Gkchangepass/298504
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/3fb27f3520022e79fe242fe2de5c88e7.png" group-title="👶Kids",FR: CANAL+ Kids
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/281601
+#EXTINF:-1 tvg-id="" tvg-name="UK: Moonbug Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="👶Kids",UK: Moonbug Kids
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/299969
+#EXTINF:-1 tvg-id="4funhits.pl" tvg-name="PL: 4Fun Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/def2f373ae714251530c0089cadae7aa.png" group-title="👶Kids",PL: 4Fun Kids
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/2703
+#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="US: Starz Kids & Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/886f9118de3aa4642609ceb78e94fca6.png" group-title="👶Kids",US: Starz Kids & Family
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/15052
+#EXTINF:-1 tvg-id="" tvg-name="CA: knowledge kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7be49370eaf20a3e8be431d2ae9d3df8.png" group-title="👶Kids",CA: knowledge kids
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/13276
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moonbug Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="👶Kids",TR: Moonbug Kids
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/299967
 #EXTINF:-1 tvg-id="" tvg-name="ID: AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/220px-AXN_logo_%282015%29.svg.png" group-title="🎬Film",ID: AXN
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683144&extension=ts&play_token=yJOCQe0h19
 #EXTINF:-1 tvg-id="" tvg-name="ID: CinemaWorld" tvg-logo="https://i.pinimg.com/736x/ea/58/4f/ea584fb363ec9be5cb2ce91b6dbc1b99.jpg" group-title="🎬Film",ID: CinemaWorld
