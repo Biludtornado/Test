@@ -13,7 +13,7 @@ http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/162138
 #EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/190px-GTV_%282017%29.svg.png" group-title="🇮🇩Indonesia",ID: GTV
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683121&extension=ts&play_token=HeFfd4Y315
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/800px-INews.png" group-title="🇮🇩Indonesia",ID: INews
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/157579
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=815408&extension=ts&play_token=zUWiRs2Rvn
 #EXTINF:-1 tvg-id="" tvg-name="ID: Jak TV" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-JAK-TV.jpg" group-title="🇮🇩Indonesia",ID: Jak TV
 http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683180&extension=ts&play_token=UwF75ShABz
 #EXTINF:-1 tvg-id="" tvg-name="ID: JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/150px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="🇮🇩Indonesia",ID: JTV
@@ -65,8 +65,6 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=925271&
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=1035704&extension=ts&play_token=zcLCjltBPB
 #EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="US: Starz Kids & Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/886f9118de3aa4642609ceb78e94fca6.png" group-title="👶Kids",US: Starz Kids & Family
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=45479&extension=ts&play_token=TPtKrmw7bs
-#EXTINF:-1 tvg-id="" tvg-name="CA: knowledge kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7be49370eaf20a3e8be431d2ae9d3df8.png" group-title="👶Kids",CA: knowledge kids
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/13276
 #EXTINF:-1 tvg-id="" tvg-name="TR: Moonbug Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="👶Kids",TR: Moonbug Kids
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=926168&extension=ts&play_token=StvBtmect8
 #EXTINF:-1 tvg-id="" tvg-name="KU: Afarin Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/4070cdb9a95a094c98bd21eb32052294.jpg" group-title="👶Kids",KU: Afarin Kids
@@ -217,16 +215,14 @@ http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430789
 http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430790
 #EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 41" tvg-logo="http://www.pngall.com/wp-content/uploads/2018/06/Cinema-PNG-Image-HD.png" group-title="🎥Cinema",PPV: Cinema 41
 http://abc123.digital:8080/jamal0115@gmail.com/Aao8zSSUIf/430791
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="©️Astro Supersports",MY: Astro SuperSport
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/146068
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="©️Astro Supersports",MY: Astro SuperSport 2
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/157556
+#EXTINF:-1 tvg-id="" tvg-name="UK: Astro SuperSport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="©️Astro Supersports",UK: Astro SuperSport
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=1016544&extension=ts&play_token=1qT11VaeGx
+#EXTINF:-1 tvg-id="" tvg-name="UK: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="©️Astro Supersports",UK: Astro SuperSport 2
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=1016545&extension=ts&play_token=wkJ7v4gdbE
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="©️Astro Supersports",MY: Astro SuperSport 3
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/157557
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=571247&extension=ts&play_token=21NqDkR4vM
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="©️Astro Supersports",MY: Astro SuperSport 4
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/157558
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="©️Astro Supersports",MY: Astro SuperSport 5
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/287792
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=571246&extension=ts&play_token=9erzelNBf4
 #EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 1" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="♨️Fox Sports",US: Fox Sports 1
 http://iptvtree.net:8080/64921423/a826570920/300620
 #EXTINF:-1 tvg-id="" tvg-name="US: Fox Sports 2" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="♨️Fox Sports",US: Fox Sports 2
