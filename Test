@@ -381,6 +381,18 @@ http://iptvtree.net:8080/64921423/a826570920/280145
 http://iptvtree.net:8080/64921423/a826570920/280249
 #EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="QA: beIN Sports Xtra 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fb2314ef37b5afab01fff884f691f101.jpg" group-title="✴️Bein Sports",QA: beIN Sports Xtra 1
 http://iptvtree.net:8080/64921423/a826570920/290037
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports UHD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/747a76fd92a41bfcda1a6afcfa9cbf49.png" group-title="🔮NBC Sports",US: NBC Sports UHD
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=1124350&extension=ts&play_token=BmoKrl7aRn
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports chicago" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/747a76fd92a41bfcda1a6afcfa9cbf49.png" group-title="🔮NBC Sports",US: NBC Sports chicago
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=1124349&extension=ts&play_token=YWotFiboDy
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/747a76fd92a41bfcda1a6afcfa9cbf49.png" group-title="🔮NBC Sports",US: NBC Sports network
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=234677&extension=ts&play_token=KCJt6TuXWw
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports bay area" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/747a76fd92a41bfcda1a6afcfa9cbf49.png" group-title="🔮NBC Sports",US: NBC Sports bay area
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=234675&extension=ts&play_token=gXS1dSGQSt
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports california" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/747a76fd92a41bfcda1a6afcfa9cbf49.png" group-title="🔮NBC Sports",US: NBC Sports california
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=234673&extension=ts&play_token=3dEluR6dyF
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC Sports washington" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/747a76fd92a41bfcda1a6afcfa9cbf49.png" group-title="🔮NBC Sports",US: NBC Sports washington
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=234672&extension=ts&play_token=7F2lK4i0PZ
 #EXTINF:-1 tvg-id="skyhits.uk" tvg-name="UK MOVIES:  SKY HITS" tvg-logo="" group-title="🇺🇦UK UNITED KINGDOM",UK MOVIES:  SKY HITS
 http://tvmate.icu:8080/68KUdQ/036645/35255
 #EXTINF:-1 tvg-id="skyaction.uk" tvg-name="UK: SKY CINEMA ACTION FHD" tvg-logo="" group-title="🇺🇦UK UNITED KINGDOM",UK: SKY CINEMA ACTION FHD
