@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="ID: ANTV" tvg-logo="https://yt3.ggpht.com/baA5YNs6v_RUpF72_GUfyK1fCGXKUPFWBfwg0MKxKfKskevRIZ616WTIvWscRms9CxEr5uoD5_g=s48-c-k-c0x00ffffff-no-rj" group-title="🇮🇩Indonesia",ID: ANTV
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/165072
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683153&extension=ts&play_token=DXkQRFgzPa
 #EXTINF:-1 tvg-id="" tvg-name="ID: Balikpapan TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="🇮🇩Indonesia",ID: Balikpapan TV
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/166409
 #EXTINF:-1 tvg-id="" tvg-name="ID: Bali TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/250px-BaliTV_2014.png" group-title="🇮🇩Indonesia",ID: Bali TV
@@ -52,19 +52,19 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683196&extensi
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="https://w7.pngwing.com/pngs/809/244/png-transparent-tvone-television-batu-logo-streaming-media-others.png" group-title="🇮🇩Indonesia",ID: TV One
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683101&extension=ts&play_token=g5uU52pcdw
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVKU" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="🇮🇩Indonesia",ID: TVKU
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/166709
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683106&extension=ts&play_token=VbWFNyCP2g
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI" tvg-logo="https://www.goodnewsfromindonesia.id/wp-content/uploads/images/source/adityajoyo/TVRI_Ident_Menjalin_Persatuan__Kesatuan_1.jpg" group-title="🇮🇩Indonesia",ID: TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/3fb27f3520022e79fe242fe2de5c88e7.png" group-title="👶Kids",FR: CANAL+ Kids
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/281601
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=830359&extension=ts&play_token=Rs9BV6TxoH
 #EXTINF:-1 tvg-id="" tvg-name="KU: Forever Tom & Jerry" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="👶Kids",UK",KU: Forever Tom & Jerry
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/300716
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=587343&extension=ts&play_token=N61i8Af5LO
 #EXTINF:-1 tvg-id="" tvg-name="UK: Moonbug Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="👶Kids",UK: Moonbug Kids
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/299969
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=925271&extension=ts&play_token=6j6pHqzePD
 #EXTINF:-1 tvg-id="4funhits.pl" tvg-name="PL: 4Fun Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/def2f373ae714251530c0089cadae7aa.png" group-title="👶Kids",PL: 4Fun Kids
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/2703
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=1035704&extension=ts&play_token=zcLCjltBPB
 #EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-name="US: Starz Kids & Family" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/886f9118de3aa4642609ceb78e94fca6.png" group-title="👶Kids",US: Starz Kids & Family
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/15052
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=45479&extension=ts&play_token=TPtKrmw7bs
 #EXTINF:-1 tvg-id="" tvg-name="CA: knowledge kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7be49370eaf20a3e8be431d2ae9d3df8.png" group-title="👶Kids",CA: knowledge kids
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/13276
 #EXTINF:-1 tvg-id="" tvg-name="TR: Moonbug Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="👶Kids",TR: Moonbug Kids
