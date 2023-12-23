@@ -31,7 +31,7 @@ http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/298550
 #EXTINF:-1 tvg-id="" tvg-name="ID: MQTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/81/Logo_MQTV.png/200px-Logo_MQTV.png" group-title="🇮🇩Indonesia",ID: MQTV
 http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/298551
 #EXTINF:-1 tvg-id="" tvg-name="ID: Net" tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="🇮🇩Indonesia",ID: Net
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd?|User-Agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"|license_type=com.widevine.alpha&license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=syaiful
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683093&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-id="" tvg-name="ID: Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/31/20220920070150%21Logo_nusantaratv.png/120px-Logo_nusantaratv.png" group-title="🇮🇩Indonesia",ID: Nusantara TV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683196&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-id="" tvg-name="ID: Radar Cirebon TV" tvg-logo="https://4.bp.blogspot.com/-oNCGc5_Emho/We9dGY51uwI/AAAAAAAAAzE/G9XdWzYGwV0eRRcCPw_7vNUGyPsUOYpCgCLcBGAs/s320/rctv-cirebon.png" group-title="🇮🇩Indonesia",ID: Radar Cirebon TV
