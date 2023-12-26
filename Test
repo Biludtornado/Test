@@ -14,7 +14,7 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/190px-GTV_%282017%29.svg.png" group-title="🇮🇩Indonesia",ID: GTV
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683121&extension=ts&play_token=HeFfd4Y315
+http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=704412&extension=ts&play_token=pv72xH67y8
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/800px-INews.png" group-title="🇮🇩Indonesia",ID: INews
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=815408&extension=ts&play_token=zUWiRs2Rvn
 #EXTINF:-1 tvg-id="" tvg-name="ID: Jak TV" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-JAK-TV.jpg" group-title="🇮🇩Indonesia",ID: Jak TV
