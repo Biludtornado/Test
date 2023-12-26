@@ -18,7 +18,7 @@ http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=704412&e
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/800px-INews.png" group-title="🇮🇩Indonesia",ID: INews
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=815408&extension=ts&play_token=zUWiRs2Rvn
 #EXTINF:-1 tvg-id="" tvg-name="ID: Jak TV" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-JAK-TV.jpg" group-title="🇮🇩Indonesia",ID: Jak TV
-http://watchtv.best:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683180&extension=ts&play_token=UwF75ShABz
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683180&extension=ts&play_token=GVZS088tcf 
 #EXTINF:-1 tvg-id="" tvg-name="ID: JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/150px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="🇮🇩Indonesia",ID: JTV
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683115&extension=ts&play_token=rC7opvJLSa
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-Kompas-TV-1.jpg",ID: Kompas TV
