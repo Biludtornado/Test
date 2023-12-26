@@ -24,8 +24,7 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683115&
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-Kompas-TV-1.jpg",ID: Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-#EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/kuHesIiGLnwBug_VJXHsP8q5NUY=/72x72/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/81754377/mentaritv-43de80.jpg",ID: Mentari TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Mentari TV" tvg-logo="https://thumbor.prod.vidiocdn.com/kuHesIiGLnwBug_VJXHsP8q5NUY=/72x72/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/81754377/mentaritv-43de80.jpg" group-title="🇮🇩Indonesia",ID: Mentari TV
 https://ariev.vercel.app/api/play.m3u?id=8237&pw=syaiful
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/594px-MetroTV_2000.svg.png",ID: Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
