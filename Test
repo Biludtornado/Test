@@ -8,11 +8,9 @@ http://xplatinmedia.com:8080/Dedicadonet/ZcSlBFP4AMi24cDAt5BSClO88hbd7d/13422
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 tvg-id="" tvg-name="ID: Da'ai TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/DAAI_TV_Jakarta.png/800px-DAAI_TV_Jakarta.png" group-title="🇮🇩Indonesia", ID: Da Ai TV
 http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/165061
-#EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png", INDOSIAR HD 
+#EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/75/Indosiar_Karya_Media.png/220px-Indosiar_Karya_Media.png",ID: Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/75/Indosiar_Karya_Media.png/220px-Indosiar_Karya_Media.png" group-title="🇮🇩Indonesia",ID: Indosiar
-http://37.49.225.197:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/162138
 #EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/190px-GTV_%282017%29.svg.png" group-title="🇮🇩Indonesia",ID: GTV
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683121&extension=ts&play_token=HeFfd4Y315
 #EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/800px-INews.png" group-title="🇮🇩Indonesia",ID: INews
