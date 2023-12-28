@@ -23,6 +23,13 @@ https://ariev.vercel.app/api/1-rcti?id=3&pw=syaiful&user=|User-Agent="android-R+
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=815408&extension=ts&play_token=zUWiRs2Rvn
 #EXTINF:-1 tvg-id="" tvg-name="ID: Jak TV" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-JAK-TV.jpg" group-title="🇮🇩Indonesia",ID: Jak TV
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683180&extension=ts&play_token=GVZS088tcf 
+
+#EXTINF:-1 tvg-id="Channel3.th" group-title="MOVIE ASIA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CH3 HD_🇹🇭
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://www.livedoomovies.com:4432/02_3HD_720p/chunklist.m3u8
+http://61.19.242.134/feed/202306140918/ch3hd/index.m3u8
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: JTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/JTV_%28Indonesian_TV_channel%29_2022.svg/150px-JTV_%28Indonesian_TV_channel%29_2022.svg.png" group-title="🇮🇩Indonesia",ID: JTV
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683115&extension=ts&play_token=rC7opvJLSa
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-Kompas-TV-1.jpg",ID: Kompas TV
