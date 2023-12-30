@@ -128,10 +128,7 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=45588&e
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="🎬Film",ID: Galaxy Premium
-http://iptvtree.net:8080/64921423/a826570920/264774
-
-#EXTINF:-1 group-title="🎬Film" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",ID: Galaxy Premium
+#EXTINF:-1 group-title="🎬Film" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",ID: Galaxy Premium
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 android-R+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha&license
