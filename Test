@@ -122,12 +122,18 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683161&
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=45588&extension=ts&play_token=IkLFbqtywa
 #EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png" group-title="🎬Film",ID: Galaxy
 http://iptvtree.net:8080/64921423/a826570920/264773
+
+#EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png"ID: Galaxy
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 android-R+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha&license
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png" group-title="🎬Film",ID: Galaxy Premium
 http://iptvtree.net:8080/64921423/a826570920/264774
 #EXTINF:-1 tvg-id="" tvg-name="ID: GEM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Gem_TV_logo_2020.png/180px-Gem_TV_logo_2020.png" group-title="🎬Film",ID: GEM
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/298533
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="https://w7.pngwing.com/pngs/976/630/png-transparent-hbo-logo-silver.png" group-title="🎬Film",ID: HBO
-http://xtv.ooo:8080/3212571066/abc123/350955
 
 #EXTINF:-1 group-title="🎬Film" tvg-logo="https://w7.pngwing.com/pngs/976/630/png-transparent-hbo-logo-silver.png",ID: HBO
 #EXTVLCOPT:http-referrer=https://transvision.co.id
