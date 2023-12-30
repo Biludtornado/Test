@@ -30,9 +30,11 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683115&
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://blog.visionplus.id/wp-content/uploads/2023/06/Jadwal-Program-Kompas-TV-1.jpg",ID: Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://thumbor.prod.vidiocdn.com/kuHesIiGLnwBug_VJXHsP8q5NUY=/72x72/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/81754377/mentaritv-43de80.jpg",ID: Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 android-R+
-https://ariev.vercel.app/api/play.m3u?id=8237&pw=syaiful&user=|User-Agent="android-R+"|user-agent="android-R+"
+https://ariev.vercel.app/api/play.m3u?id=8237&pw=syaiful&user-agent=|User-Agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"
+
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/594px-MetroTV_2000.svg.png",ID: Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
@@ -52,10 +54,9 @@ https://ariev.vercel.app/api/play.m3u?ch=mqtv&pw=syaiful
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ID: Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/31/20220920070150%21Logo_nusantaratv.png/120px-Logo_nusantaratv.png" group-title="🇮🇩Indonesia",ID: Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: Radar Cirebon TV" tvg-logo="https://4.bp.blogspot.com/-oNCGc5_Emho/We9dGY51uwI/AAAAAAAAAzE/G9XdWzYGwV0eRRcCPw_7vNUGyPsUOYpCgCLcBGAs/s320/rctv-cirebon.png" group-title="🇮🇩Indonesia",ID: Radar Cirebon TV
 http://iptvtree.net:8080/64921423/a826570920/300662
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rajawali TV" tvg-logo="https://www.rajawali.com/wp-content/uploads/2017/04/Rajawali-Televisi.png" group-title="🇮🇩Indonesia",ID: Rajawali TV
-http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683095&extension=ts&play_token=sBfHvm7CVp
 
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://www.rajawali.com/wp-content/uploads/2017/04/Rajawali-Televisi.png",ID: Rajawali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -68,9 +69,11 @@ https://ariev.vercel.app/api/1-rcti?id=1&pw=syaiful&user=|User-Agent="android-R+
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest/scale-to-width-down/300?cb=20180922034039",ID: Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png",ID: SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="https://sindymaulia.files.wordpress.com/2016/12/trans-7-logo.png?w=357" group-title="🇮🇩Indonesia",ID: Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
 
@@ -80,10 +83,13 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w226470954_b744100_s
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-logo="https://w7.pngwing.com/pngs/809/244/png-transparent-tvone-television-batu-logo-streaming-media-others.png",ID: TV One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVKU" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/91/TVKU-BChannel.png/200px-TVKU-BChannel.png" group-title="🇮🇩Indonesia",ID: TVKU
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683106&extension=ts&play_token=VbWFNyCP2g
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: TVRI" tvg-logo="https://www.goodnewsfromindonesia.id/wp-content/uploads/images/source/adityajoyo/TVRI_Ident_Menjalin_Persatuan__Kesatuan_1.jpg" group-title="🇮🇩Indonesia",ID: TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Kids" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/3fb27f3520022e79fe242fe2de5c88e7.png" group-title="👶Kids",FR: CANAL+ Kids
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=830359&extension=ts&play_token=Rs9BV6TxoH
 #EXTINF:-1 tvg-id="" tvg-name="KU: Forever Tom & Jerry" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="👶Kids",UK",KU: Forever Tom & Jerry
@@ -122,6 +128,15 @@ http://iptvtree.net:8080/64921423/a826570920/264774
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/298533
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="https://w7.pngwing.com/pngs/976/630/png-transparent-hbo-logo-silver.png" group-title="🎬Film",ID: HBO
 http://xtv.ooo:8080/3212571066/abc123/350955
+
+#EXTINF:-1 group-title="🎬Film" tvg-logo="https://w7.pngwing.com/pngs/976/630/png-transparent-hbo-logo-silver.png",ID: HBO
+#EXTVLCOPT:http-referrer=https://transvision.co.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 android-R+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha&license
+#KODIPROP:inputstream.adaptive.license_key=https://ariev.vercel.app/api/max?ch=cubmu&pw=syaiful
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="🎬Film",ID: HBO Family
 http://iptvtree.net:8080/64921423/a826570920/197055
 #EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/200px-HBOHits-ASIA.png" group-title="🎬Film",ID: HBO Hits
