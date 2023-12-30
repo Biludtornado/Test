@@ -121,7 +121,7 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=683161&
 #EXTINF:-1 tvg-id="" tvg-name="ID: Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Disney_channel_2019.png/220px-Disney_channel_2019.png" group-title="🎬Film",ID: Disney Channel
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:c6:20:7d&stream=45588&extension=ts&play_token=IkLFbqtywa
 
-#EXTINF:-1 group-title="🎬Film" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png"ID: Galaxy
+#EXTINF:-1 group-title="🎬Film" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",ID: Galaxy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 android-R+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha&license
